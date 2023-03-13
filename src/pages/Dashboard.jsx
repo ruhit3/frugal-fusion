@@ -7,7 +7,7 @@ export function dashboardLoader() {
   return { userName };
 }
 
-export const Dashboard = () => {
+const Dashboard = () => {
   const { userName } = useLoaderData();
 
   return (
