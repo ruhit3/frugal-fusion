@@ -1,2 +1,2 @@
-# frugal-fusion
+# Frugal Fusion
 A Simple Budgeting App
